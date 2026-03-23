@@ -1,0 +1,30 @@
+## .NET
+bin/
+obj/
+publish/
+*.dll
+*.exe
+*.pdb
+*.user
+*.suo
+*.cache
+*.docstates
+
+## IDE
+.vs/
+.idea/
+*.sln.iml
+*.userprefs
+.vscode/
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Build
+out/
+artifacts/
+TestResults/
+
+## Claude Code
+.claude/
