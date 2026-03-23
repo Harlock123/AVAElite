@@ -78,4 +78,4 @@ AVAElite/
 ## Credits
 
 - Original game: David Braben and Ian Bell (1984)
-- Avalonia recreation: Built with Claude Code
+- Avalonia recreation: Built by Lonnie Watson
