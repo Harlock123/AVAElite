@@ -6,6 +6,8 @@ A faithful recreation of the classic 1984 **Elite** game by David Braben and Ian
 
 The game renders all ships, stations, and planets as green wireframe models on a black background, just like the BBC Micro original.
 
+![AVA Elite title screen: the Cobra Mk III wireframe over a starfield, Commander Jameson](Images/AVAElite-title.png)
+
 ## Features
 
 ### 3D Wireframe Engine
