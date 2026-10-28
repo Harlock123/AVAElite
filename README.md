@@ -67,13 +67,12 @@ dotnet run
 
 ```
 AVAElite/
-  Core/        — Game loop, input, math (Vector3/Matrix3x3), seed RNG
+  Core/        — Game state, input, math (Vector3/Matrix3x3), seed RNG
   Models/      — Ship wireframe data (vertices, edges, faces)
   Universe/    — Galaxy generation, star systems, market, commodities
-  Flight/      — Space entities, scene management, NPC AI
-  Combat/      — Weapons, damage (integrated into flight screen)
+  Flight/      — Space entities, scene management
   Rendering/   — 3D renderer with hidden line removal, HUD, scanner
-  Screens/     — Title, flight, maps, market, status, equipment
+  Screens/     — Title, flight (with combat and NPC AI), maps, market, status, equipment
   Views/       — Avalonia GameCanvas control
 ```
 

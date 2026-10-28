@@ -65,8 +65,7 @@ All code is under `AVAElite/`.
 ## Making a change
 
 - Check changes by running the game; there are no automated tests.
-- Keep the README's controls table and features list in step with the code. Its project structure mentions a
-  `Combat/` folder that doesn't exist: combat lives in `Screens/FlightScreen.cs`.
+- Keep the README's controls table, features list and project structure in step with the code.
 
 ## CI and releases
 
